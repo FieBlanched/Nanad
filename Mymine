@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Romantis untuk My Mine</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .container h1 {
+            color: #ff1493;
+        }
+        .container p {
+            color: #333;
+            font-size: 18px;
+        }
+        .container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Untuk Nanad My Mine</h1>
+        <p>Ketika aku melihatmu, aku merasa seperti aku adalah orang yang paling beruntung di dunia ini. Aku mencintaimu lebih dari kata-kata yang bisa kuungkapkan. Kamu adalah segalanya bagiku.</p>
+        <img src="https://i.imgur.com/K6TGy3D.jpeg" alt="Foto Romantis">
+    </div>
+</body>
+</html>
